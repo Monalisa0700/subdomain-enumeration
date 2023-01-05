@@ -10,4 +10,5 @@ Check for alive domains and save it in live_subs with webserver used i.e. http o
 PREREQUISITES :       
 Subfinder - #go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest                                                                         
 Assetfinder - #go get -u github.com/tomnomnom/assetfinder
+
 httprobe - #go install github.com/tomnomnom/httprobe@latest 
